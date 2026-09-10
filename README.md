@@ -41,6 +41,7 @@ Each script is interactive and self-contained:
 python3 Lab1.py
 python3 Lab2.py
 python3 Lab3.py
+python3 Lab4.py
 ```
 
 No external dependencies - standard library only.
