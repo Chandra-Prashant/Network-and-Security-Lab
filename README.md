@@ -31,7 +31,7 @@ self-contained and runs independently.
   `X`), then encrypted/decrypted with the standard Playfair row/column/
   rectangle rules extended to the 7x7 grid.
 
-  - **`Lab4.py`** - A Hill cipher.
+- **`Lab4.py`** - A Hill cipher.
 
 ## Running
 
